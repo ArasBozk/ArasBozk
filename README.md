@@ -5,7 +5,7 @@ I am **Aras**
 
 - 🔭 I’m currently working on some technical interviews
 - 🌱 I’m currently learning new Technologies
-- 📫 How to reach me: From my LinkedIn account
+- 📫 How to reach me: From my LinkedIn account or simply e-mail me 
 - ⚡ Fun fact: I am an RPG addicted (Rogue/Assassin) also I love playing didgeridoo
 
 
