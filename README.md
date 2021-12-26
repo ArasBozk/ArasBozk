@@ -1,4 +1,4 @@
-# Hello World 👋
+## Hello World 👋
 
 
 I am **Aras** 
@@ -8,7 +8,7 @@ I am **Aras**
 - ⚡ Fun fact: I am an RPG addicted (Rogue/Assassin) also I love playing didgeridoo
 
 
-# ⚡ Technologies:
+## ⚡ Technologies:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -19,7 +19,3 @@ I am **Aras**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br />
 <br />
-
-
-
-[linkedin]: https://www.linkedin.com/in/aras-bozkurt-0592151a0/?locale=en_US
