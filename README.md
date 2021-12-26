@@ -1,9 +1,7 @@
 ### Hello World 👋
 
 
-**ArasBozk/ArasBozk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am **Aras** 
 
 - 🔭 I’m currently working on some technical interviews
 - 🌱 I’m currently learning new Technologies
